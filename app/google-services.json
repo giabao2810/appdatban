@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "692210887576",
+    "project_id": "wazon-edeb6",
+    "storage_bucket": "wazon-edeb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692210887576:android:be41c89132772bdc0559ed",
+        "android_client_info": {
+          "package_name": "com.example.java"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692210887576-69o3falveh6ecvcuc73a1iv8hfuiq5m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjuFQdD9ySkmfJvJiKRsXqfa4MP0QGXuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692210887576-69o3falveh6ecvcuc73a1iv8hfuiq5m4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
